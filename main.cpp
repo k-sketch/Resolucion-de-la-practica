@@ -15,7 +15,7 @@ int main(){
 }
 
 
-int main(void){
+int main(){
    int i;
    int factorial=1;
    int numero;
